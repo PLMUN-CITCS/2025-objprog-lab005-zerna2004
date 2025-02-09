@@ -1,0 +1,4 @@
+Power: 8.0
+Square Root: 4.0
+Rounded Number: 6
+Random Number: 0.007895794160877712
